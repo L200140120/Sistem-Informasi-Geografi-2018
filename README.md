@@ -1,6 +1,13 @@
 # Sistem-Informasi-Geografi-2017
 Catatan kuliah semester GENAP 2016/2017
 
+## ROADMAP
+![peta_01](img/peta01.png)
+
+## SATELIT
+![peta_01](img/peta_02.png)
+
+
 ## Contoh Kode lihat di ling di bawah
 
 [CONTOH KODE GOOGLE MAP](https://github.com/handaga/sistim-informasi-geografi)
