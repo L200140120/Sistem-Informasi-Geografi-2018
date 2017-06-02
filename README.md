@@ -8,7 +8,7 @@ Catatan kuliah semester GENAP 2016/2017
 ![peta_01](img/peta_02.png)
 
 
-## Contoh Kode lihat di ling di bawah
+## Contoh Kode lihat link di bawah
 
 [CONTOH KODE GOOGLE MAP](https://github.com/handaga/sistim-informasi-geografi)
 
